@@ -1,5 +1,3 @@
-'use client'
-
 import { CurrentSearch } from '@/app/(store)/search/current-search'
 import { Skeleton } from '@/components/skeleton'
 import { Suspense } from 'react'
